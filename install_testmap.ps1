@@ -1,0 +1,1 @@
+Invoke-WebRequest 'https://raw.githubusercontent.com/the-one-with-raspberry/random-file-bucket/main/test_map.bsp' -OutFile 'C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\maps\test_map.bsp'
